@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go-mcp-demo
+go-mcp-demo.exe
+
+# Test binary
+*.test
+
+# Output
+*.out
+
+# Go workspace / IDE
+go.work
+go.work.sum
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local
+.trae/
